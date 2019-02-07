@@ -8,6 +8,6 @@
 </head>
 <body>
 first test<br>
-red green blue yellow white <p>
+red green blue yellow  <p>
 </body>
 </html>
