@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-first test<br>
-red green blue yellow  <p>
+
 </body>
 </html>
